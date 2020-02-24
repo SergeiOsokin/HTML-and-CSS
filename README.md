@@ -1,6 +1,6 @@
 # First-project-HTML-CSS
 
-Данная работа является первым учебным проектом.
+In this project uses only the basics HTML and CSS.
 
-В работе используются HTML и CSS с использованием методологии БЭМ.
+There is еру project uses  The BEM Methodology.
 
