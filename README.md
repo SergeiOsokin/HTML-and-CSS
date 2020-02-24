@@ -2,5 +2,7 @@
 
 In this project uses only the basics HTML and CSS.
 
-There is еру project uses  The BEM Methodology.
+In this project uses The BEM Methodology.
+
+This project was checked code review.
 
