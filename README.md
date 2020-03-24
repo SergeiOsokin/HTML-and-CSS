@@ -10,6 +10,7 @@
 - разбитие html разметки на логические блоки.
 
 Для развертывания проекта локально необходимо:
-- скопировать репозиторий командой git clone https://github.com/SergeiOsokin/HTML-and-CSS.git -b develop;
-- далее выполнить команду npm install, 
+- скопировать репозиторий командой git clone https://github.com/SergeiOsokin/HTML-and-CSS.git;
+- зайти в папку с проектом cd PATH;
+- выполнить команду npm install, 
 - после установки необходимых плагинов выполнить команду npm run dev. 
