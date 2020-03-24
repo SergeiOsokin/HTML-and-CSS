@@ -1,3 +1,4 @@
+@import url(./vendor/normalize.css);
 @keyframes square {
     from {
         transform:rotate(15deg);
@@ -44,7 +45,7 @@
     height:32px;
     top:30px;
     left:64px;
-    background-image: url(../images/logo.svg);
+    background-image: url(./images/logo.svg);
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
@@ -88,7 +89,7 @@
     height:608px;
     bottom:0px;
     right:0px;
-    background-image: url(../images/two_again.png);
+    background-image: url(./images/two_again.png);
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
@@ -321,7 +322,7 @@
     position:absolute;
     bottom:0px;
     left:0px;
-    background-image: url(../images/feinman.png);
+    background-image: url(./images/feinman.png);
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
@@ -508,7 +509,7 @@
     position:absolute;
     top:0px;
     right:-210px;
-    background-image: url(../images/triangle.svg);
+    background-image: url(./images/triangle.svg);
     background-size:contain;
     z-index:100;
     animation:triangle 20s ease infinite;
@@ -563,7 +564,7 @@
     position:relative;
     width:183px;
     height:35px;
-    background-image: url(../images/logo_white.svg);
+    background-image: url(./images/logo_white.svg);
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
