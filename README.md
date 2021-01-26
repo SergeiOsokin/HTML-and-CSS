@@ -10,7 +10,7 @@
 - разбитие html разметки на логические блоки.
 
 Для развертывания проекта локально необходимо:
-- скопировать репозиторий командой git clone https://sergeiosokin.github.io/Learn-to-learn.git;
+- скопировать репозиторий командой git clone https://github.com/SergeiOsokin/Learn-to-learn.git;
 - зайти в папку с проектом cd PATH;
 - выполнить команду npm install, 
 - после установки необходимых плагинов выполнить команду npm run dev. 
